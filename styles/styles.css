@@ -1,0 +1,226 @@
+body {
+    margin: 0;
+    min-height: 100vh;
+}
+.top-container h1 {
+    width: 30%;
+    padding-top: 60px;
+    margin-left: 50px;
+    font-family: "poppings", sans-serif;
+    font-weight: 600px;
+    text-align: left;
+}
+.section h2 {
+    width: 30%;
+    padding-top: 60px;
+    margin-left: 50px;
+    font-family: "poppings", sans-serif;
+    font-weight: 600px;
+    text-align: left;
+}
+.section p {
+    line-height: 1.5;
+    font-family: "open-sans", sans-serif;
+    font-weight: 400;
+    color: rgb(146, 141, 141);
+}
+.top-container {
+    background-color: hsl(193, 100%, 96%);
+    background-image: url(/images/bg-hero-desktop.svg);
+    height: 650px;
+    width: 100%;
+    display: inline-block;
+}
+.logo {
+    margin: 30px;
+    padding: 20px;
+   width: 14%;
+}
+.btn-one {
+   float: right;
+margin: 30px;
+padding: 10px;
+background-color: #fff;
+width: 13%;
+border: #fff;
+border-radius: 30px;
+font-family: sans-serif;
+font-weight: 700;
+box-shadow: grey 0 0 5px;
+
+}
+.top-message {
+    width: 35%;
+    color: black;
+    margin-left: 50px;
+    font-weight: 400;
+    line-height: 1.5;
+}
+.btn-two {
+    background-color: hsl(322, 100%, 66%);
+    margin-top: 10px;
+    margin-left: 50px;
+    padding: 13px;
+    width: 17%;
+    border: none;
+    border-radius: 30px;
+    color: #fff;
+    font-family: sans-serif;
+    font-weight: 600;
+}
+button.btn-two:hover, button.btn-three:hover {
+    background-color: hsl(322, 100%, 83%);
+}
+.mockups {
+    width: 53%;
+    margin-left: 45%;
+    margin-top: -300px;
+}
+/*Section*/
+.section{
+    margin: 100px 40px;
+    text-align: left;
+    height: 1000px;
+    
+}
+.growth{
+    padding: 50px 20px 70px 40px;
+    background-color: #fff;
+    box-shadow: rgb(230, 230, 230) 0 0 8px;
+    border-radius: 10px;
+    margin: 30px 30px;
+}
+.growth-msg {
+    width: 35%;
+    margin-left: 50px;
+}
+.grow-img {
+    width: 30%;
+    float: right;
+   margin-top: -230px;
+   margin-right: 40px;
+}
+.convo{
+    padding: 50px 20px 70px 40px;
+    background-color: #fff;
+    box-shadow: rgb(230, 230, 230) 0 0 8px;
+    border-radius: 10px;
+    margin: 30px 30px;
+}
+#convo-header {
+    width: 40%;
+    float: right;
+    margin: 0 10px 0 -400px;
+    
+  }
+.convo-msg {
+    width: 37%;
+    float: right;
+    margin-top: 120px;
+    
+}
+.convo-img {
+    width: 30%;
+    margin-left: 50px;
+}
+.users{
+    padding: 50px 20px 70px 40px;
+    background-color: #fff;
+    box-shadow: rgb(230, 230, 230) 0 0 8px;
+    border-radius: 10px;
+    margin: 30px 30px;
+}
+.users-msg {
+    width: 35%;
+    margin-left: 50px;
+   
+}
+.users-img {
+    width: 30%;
+    float: right;
+    margin-top: -230px;
+    margin-right: 40px;
+}
+.join {
+    height: 200px;
+    width: 60%;
+    background-color: #fff;
+    box-shadow: rgb(230, 230, 230) 0 0 3px;
+    border-radius: 10px;
+    margin: 200px auto -100px;
+    text-align: center;
+    z-index: 1;
+}
+.join h2 {
+    text-align: center;
+    padding-top: 40px;
+    font-family: "poppins", sans-serif;
+}
+.btn-three {
+    background-color: hsl(322, 100%, 66%);
+    margin-top: 10px;
+    padding: 20px;
+    width: 50%;
+    border: none;
+    border-radius: 30px;
+    color: #fff;
+    font-size: 16px;
+    font-family: sans-serif;
+    font-weight: 700;
+   
+}
+footer {
+    background-color: hsl(192, 100%, 9%);
+    height: 450px;
+    width: 100%;
+    position: relative;
+    z-index: -1;
+}
+.contact {
+    color: #fff;
+padding: 150px 90px 0;
+text-align: left;
+}
+.bottom-logo {
+    width: 12%;
+}
+.location {
+    width: 33%;
+    margin-right: 20px;
+}
+.icon {
+    margin-right: 20px;
+}
+a {
+    color: #fff;
+    padding: 10px;
+    text-decoration: none;
+    display: block;
+    margin: 0 40px;
+}
+.about{
+margin-left: 500px;
+margin-top: -150px;
+}
+.about2 {
+    margin-left: 700px;
+margin-top: -115px;
+}
+.media {
+    color: #fff;
+    float: right;
+   margin: 180px 150px 0 -120px;
+   
+}
+.copyright {
+    color: #fff;
+    margin-right: 50px;
+    float: right;
+    font-size: 12px;
+}
+.mentor {
+    color: #fff;
+    margin: 130px 500px;
+    width: 50%;
+    font-size: 10px;
+}
