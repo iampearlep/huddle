@@ -175,6 +175,7 @@ footer {
     width: 100%;
     position: relative;
     z-index: -1;
+    margin-bottom: 0;
 }
 .contact {
     color: #fff;
